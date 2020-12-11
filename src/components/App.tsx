@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
   <div className="ap">
-    <h1>Hello apps</h1>
+    <h1>Hello typescript</h1>
   </div>
 );
 
